@@ -118,6 +118,6 @@ class __TwigTemplate_7b46b1e70464ec7ee870c7b6c72d161b extends Template
   </div>
   <div class=\"tile-footer\"><a href=\"{{ sale }}\">{{ text_view }}</a></div>
 </div>
-", "extension/opencart/admin/view/template/dashboard/sale_info.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\admin\\view\\template\\dashboard\\sale_info.twig");
+", "extension/opencart/admin/view/template/dashboard/sale_info.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\admin\\view\\template\\dashboard\\sale_info.twig");
     }
 }

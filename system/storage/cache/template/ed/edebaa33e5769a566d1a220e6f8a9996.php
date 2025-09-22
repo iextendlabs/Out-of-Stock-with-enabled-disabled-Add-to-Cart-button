@@ -622,6 +622,6 @@ class __TwigTemplate_a46802e2b0fba07a9a41c83ef84a539e extends Template
 });
 //--></script>
 {{ footer }}
-", "admin/view/template/marketplace/installer.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\marketplace\\installer.twig");
+", "admin/view/template/marketplace/installer.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\marketplace\\installer.twig");
     }
 }

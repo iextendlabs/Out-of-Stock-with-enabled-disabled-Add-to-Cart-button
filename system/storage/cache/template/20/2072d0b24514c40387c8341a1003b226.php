@@ -82,6 +82,6 @@ class __TwigTemplate_733ffeea5ceb1c5f6671d8a421ba9ba3 extends Template
         return new Source("<footer id=\"footer\">{{ text_footer }}<br/>{{ text_version }}</footer></div>
 <script src=\"{{ bootstrap }}\" type=\"text/javascript\"></script>
 </body></html>
-", "admin/view/template/common/footer.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\common\\footer.twig");
+", "admin/view/template/common/footer.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\common\\footer.twig");
     }
 }

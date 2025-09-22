@@ -116,6 +116,6 @@ class __TwigTemplate_9438082767088a00af7a1ce764c59f67 extends Template
   </div>
   <div class=\"tile-footer\"><a href=\"{{ order }}\">{{ text_view }}</a></div>
 </div>
-", "extension/opencart/admin/view/template/dashboard/order_info.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\admin\\view\\template\\dashboard\\order_info.twig");
+", "extension/opencart/admin/view/template/dashboard/order_info.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\admin\\view\\template\\dashboard\\order_info.twig");
     }
 }

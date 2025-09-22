@@ -3,11 +3,11 @@
 define('APPLICATION', 'Admin');
 
 // HTTP
-define('HTTP_SERVER', 'http://localhost/opencart/Stock-with-enabled-disabled-Add-to-Cart-button/admin/');
-define('HTTP_CATALOG', 'http://localhost/opencart/Stock-with-enabled-disabled-Add-to-Cart-button/');
+define('HTTP_SERVER', 'http://localhost/opencart/cart_status/admin/');
+define('HTTP_CATALOG', 'http://localhost/opencart/cart_status/');
 
 // DIR
-define('DIR_OPENCART', 'F:/wamp64/www/opencart/Stock-with-enabled-disabled-Add-to-Cart-button/');
+define('DIR_OPENCART', 'D:/wamp64/www/opencart/cart_status/');
 define('DIR_APPLICATION', DIR_OPENCART . 'admin/');
 define('DIR_EXTENSION', DIR_OPENCART . 'extension/');
 define('DIR_IMAGE', DIR_OPENCART . 'image/');
@@ -28,7 +28,7 @@ define('DB_DRIVER', 'mysqli');
 define('DB_HOSTNAME', 'localhost');
 define('DB_USERNAME', 'root');
 define('DB_PASSWORD', '');
-define('DB_DATABASE', 'stock-with-button-add-to-cart-button-4');
+define('DB_DATABASE', 'cart_status');
 define('DB_PORT', '3306');
 define('DB_PREFIX', 'oc_');
 

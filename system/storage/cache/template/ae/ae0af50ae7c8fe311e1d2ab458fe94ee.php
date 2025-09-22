@@ -234,6 +234,6 @@ class __TwigTemplate_72e18c0d5c0ffac22c8123cfb0a11db2 extends Template
 \t</div>
 </div>
 {{ footer }}
-", "extension/Stock_with_status_Add_to_Cart_button/admin/view/template/module/Stock_with_status_Add_to_Cart_button.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\Stock_with_status_Add_to_Cart_button\\admin\\view\\template\\module\\Stock_with_status_Add_to_Cart_button.twig");
+", "extension/Stock_with_status_Add_to_Cart_button/admin/view/template/module/Stock_with_status_Add_to_Cart_button.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\Stock_with_status_Add_to_Cart_button\\admin\\view\\template\\module\\Stock_with_status_Add_to_Cart_button.twig");
     }
 }

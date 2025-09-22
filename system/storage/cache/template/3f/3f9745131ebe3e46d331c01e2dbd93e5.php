@@ -94,6 +94,6 @@ class __TwigTemplate_ab70f7c15d86d56e7f8c079c032b2f84 extends Template
   </div>
   <div class=\"tile-footer\"><a href=\"{{ online }}\">{{ text_view }}</a></div>
 </div>
-", "extension/opencart/admin/view/template/dashboard/online_info.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\admin\\view\\template\\dashboard\\online_info.twig");
+", "extension/opencart/admin/view/template/dashboard/online_info.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\admin\\view\\template\\dashboard\\online_info.twig");
     }
 }

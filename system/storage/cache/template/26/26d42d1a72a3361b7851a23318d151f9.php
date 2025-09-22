@@ -258,6 +258,6 @@ class __TwigTemplate_e8445c2bf8b0c2f5d68a345e72ff7c0c extends Template
 
 \$('#range a.active').trigger('click');
 //--></script>
-", "extension/opencart/admin/view/template/dashboard/chart_info.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\admin\\view\\template\\dashboard\\chart_info.twig");
+", "extension/opencart/admin/view/template/dashboard/chart_info.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\admin\\view\\template\\dashboard\\chart_info.twig");
     }
 }

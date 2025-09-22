@@ -400,6 +400,6 @@ class __TwigTemplate_3e668010e50c0327156e5c267936f706 extends Template
 \t\t</div>
 \t{% endif %}
 </nav>
-", "admin/view/template/common/column_left.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\common\\column_left.twig");
+", "admin/view/template/common/column_left.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\common\\column_left.twig");
     }
 }

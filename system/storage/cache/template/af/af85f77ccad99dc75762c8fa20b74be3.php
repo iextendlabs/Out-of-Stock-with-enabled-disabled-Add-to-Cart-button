@@ -125,6 +125,6 @@ class __TwigTemplate_cacc3606a2b54103d24b4ea9e10c502f extends Template
     {% endif %}
   </ul>
 </div>
-", "extension/opencart/admin/view/template/dashboard/activity_info.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\admin\\view\\template\\dashboard\\activity_info.twig");
+", "extension/opencart/admin/view/template/dashboard/activity_info.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\admin\\view\\template\\dashboard\\activity_info.twig");
     }
 }

@@ -221,6 +221,6 @@ class __TwigTemplate_764a958d032bc38cabc570acf819e89e extends Template
       </tbody>
     </table>
   </div>
-</fieldset>", "admin/view/template/extension/analytics.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\extension\\analytics.twig");
+</fieldset>", "admin/view/template/extension/analytics.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\extension\\analytics.twig");
     }
 }

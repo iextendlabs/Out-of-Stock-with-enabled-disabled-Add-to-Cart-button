@@ -348,6 +348,6 @@ class __TwigTemplate_56c1881004ed81e67b7edfbfc9f16a77 extends Template
     </div>
   </div>
 {% endfor %}
-", "admin/view/template/marketplace/installer_extension.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\marketplace\\installer_extension.twig");
+", "admin/view/template/marketplace/installer_extension.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\marketplace\\installer_extension.twig");
     }
 }

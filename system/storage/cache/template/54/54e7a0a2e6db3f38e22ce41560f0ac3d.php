@@ -130,6 +130,6 @@ class __TwigTemplate_851003a82c43f9e00d3c853ae6809cb1 extends Template
     <li><a href=\"{{ language.code }}\" class=\"dropdown-item\"><img src=\"{{ language.image }}\" alt=\"{{ language.name }}\" title=\"{{ language.name }}\"/> {{ language.name }}</a></li>
   {% endfor %}
 </ul>
-<input type=\"hidden\" name=\"redirect\" value=\"{{ redirect }}\" id=\"input-redirect\"/>", "admin/view/template/common/language.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\admin\\view\\template\\common\\language.twig");
+<input type=\"hidden\" name=\"redirect\" value=\"{{ redirect }}\" id=\"input-redirect\"/>", "admin/view/template/common/language.twig", "D:\\wamp64\\www\\opencart\\cart_status\\admin\\view\\template\\common\\language.twig");
     }
 }
