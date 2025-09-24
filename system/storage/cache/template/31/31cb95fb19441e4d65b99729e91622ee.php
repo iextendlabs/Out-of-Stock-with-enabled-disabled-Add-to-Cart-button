@@ -137,27 +137,45 @@ class __TwigTemplate_65f939a0190d3d2fe2c7dca53c959f91 extends Template
         yield ($context["cart"] ?? null);
         yield "\" data-oc-target=\"#cart\">
       <div class=\"button\">
-        <button type=\"submit\" formaction=\"";
-        // line 33
-        yield ($context["cart_add"] ?? null);
-        yield "\" data-bs-toggle=\"tooltip\" title=\"";
-        yield ($context["button_cart"] ?? null);
-        yield "\"><i class=\"fa-solid fa-shopping-cart\"></i></button>
-        <button type=\"submit\" formaction=\"";
+        <button type=\"submit\" 
+                formaction=\"";
         // line 34
+        yield ($context["cart_add"] ?? null);
+        yield "\" 
+                class=\"btn btn-primary ";
+        // line 35
+        if ( !($context["cart_button"] ?? null)) {
+            yield "disabled";
+        }
+        yield "\" 
+                data-bs-toggle=\"tooltip\" 
+                title=\"";
+        // line 37
+        yield ($context["button_cart"] ?? null);
+        yield "\"
+                ";
+        // line 38
+        if ( !($context["cart_button"] ?? null)) {
+            yield "disabled";
+        }
+        yield ">
+            <i class=\"fa-solid fa-shopping-cart\"></i>
+        </button>
+        <button type=\"submit\" formaction=\"";
+        // line 41
         yield ($context["wishlist_add"] ?? null);
         yield "\" data-bs-toggle=\"tooltip\" title=\"";
         yield ($context["button_wishlist"] ?? null);
         yield "\" ><i class=\"fa-solid fa-heart\"></i></button>
         <button type=\"submit\" formaction=\"";
-        // line 35
+        // line 42
         yield ($context["compare_add"] ?? null);
         yield "\" data-bs-toggle=\"tooltip\" title=\"";
         yield ($context["button_compare"] ?? null);
         yield "\"><i class=\"fa-solid fa-arrow-right-arrow-left\"></i></button>
       </div>
       <input type=\"hidden\" name=\"product_id\" value=\"";
-        // line 37
+        // line 44
         yield ($context["product_id"] ?? null);
         yield "\"/> <input type=\"hidden\" name=\"quantity\" value=\"";
         yield ($context["minimum"] ?? null);
@@ -189,7 +207,7 @@ class __TwigTemplate_65f939a0190d3d2fe2c7dca53c959f91 extends Template
      */
     public function getDebugInfo(): array
     {
-        return array (  161 => 37,  154 => 35,  148 => 34,  142 => 33,  137 => 31,  134 => 30,  130 => 28,  124 => 27,  120 => 25,  116 => 23,  113 => 22,  109 => 21,  106 => 20,  103 => 19,  99 => 17,  91 => 15,  88 => 14,  80 => 12,  74 => 10,  72 => 9,  69 => 8,  67 => 7,  63 => 6,  57 => 5,  45 => 2,  42 => 1,);
+        return array (  179 => 44,  172 => 42,  166 => 41,  158 => 38,  154 => 37,  147 => 35,  143 => 34,  137 => 31,  134 => 30,  130 => 28,  124 => 27,  120 => 25,  116 => 23,  113 => 22,  109 => 21,  106 => 20,  103 => 19,  99 => 17,  91 => 15,  88 => 14,  80 => 12,  74 => 10,  72 => 9,  69 => 8,  67 => 7,  63 => 6,  57 => 5,  45 => 2,  42 => 1,);
     }
 
     public function getSourceContext(): Source
@@ -226,13 +244,20 @@ class __TwigTemplate_65f939a0190d3d2fe2c7dca53c959f91 extends Template
     </div>
     <form method=\"post\" data-oc-toggle=\"ajax\" data-oc-load=\"{{ cart }}\" data-oc-target=\"#cart\">
       <div class=\"button\">
-        <button type=\"submit\" formaction=\"{{ cart_add }}\" data-bs-toggle=\"tooltip\" title=\"{{ button_cart }}\"><i class=\"fa-solid fa-shopping-cart\"></i></button>
+        <button type=\"submit\" 
+                formaction=\"{{ cart_add }}\" 
+                class=\"btn btn-primary {% if not cart_button %}disabled{% endif %}\" 
+                data-bs-toggle=\"tooltip\" 
+                title=\"{{ button_cart }}\"
+                {% if not cart_button %}disabled{% endif %}>
+            <i class=\"fa-solid fa-shopping-cart\"></i>
+        </button>
         <button type=\"submit\" formaction=\"{{ wishlist_add }}\" data-bs-toggle=\"tooltip\" title=\"{{ button_wishlist }}\" ><i class=\"fa-solid fa-heart\"></i></button>
         <button type=\"submit\" formaction=\"{{ compare_add }}\" data-bs-toggle=\"tooltip\" title=\"{{ button_compare }}\"><i class=\"fa-solid fa-arrow-right-arrow-left\"></i></button>
       </div>
       <input type=\"hidden\" name=\"product_id\" value=\"{{ product_id }}\"/> <input type=\"hidden\" name=\"quantity\" value=\"{{ minimum }}\"/>
     </form>
   </div>
-</div>", "catalog/view/template/product/thumb.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\product\\thumb.twig");
+</div>", "catalog/view/template/product/thumb.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\product\\thumb.twig");
     }
 }

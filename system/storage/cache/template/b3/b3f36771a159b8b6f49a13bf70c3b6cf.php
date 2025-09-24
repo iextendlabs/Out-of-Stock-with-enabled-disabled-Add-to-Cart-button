@@ -253,6 +253,6 @@ class __TwigTemplate_80b4bab15d7280cf830de26cd9fec346 extends Template
     });
 });
 //--></script>
-", "extension/opencart/catalog/view/template/module/banner.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\catalog\\view\\template\\module\\banner.twig");
+", "extension/opencart/catalog/view/template/module/banner.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\catalog\\view\\template\\module\\banner.twig");
     }
 }

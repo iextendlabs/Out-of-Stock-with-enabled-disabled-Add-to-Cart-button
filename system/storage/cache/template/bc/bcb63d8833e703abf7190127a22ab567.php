@@ -100,6 +100,6 @@ class __TwigTemplate_d9f6a31d336380768c2ecb7f536cb517 extends Template
     <div class=\"col mb-3\">{{ product }}</div>
   {% endfor %}
 </div>
-", "extension/opencart/catalog/view/template/module/featured.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\extension\\opencart\\catalog\\view\\template\\module\\featured.twig");
+", "extension/opencart/catalog/view/template/module/featured.twig", "D:\\wamp64\\www\\opencart\\cart_status\\extension\\opencart\\catalog\\view\\template\\module\\featured.twig");
     }
 }

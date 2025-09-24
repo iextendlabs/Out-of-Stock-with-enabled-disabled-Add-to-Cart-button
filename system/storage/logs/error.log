@@ -1,0 +1,839 @@
+2025-09-22 12:56:54 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 12:57:25 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 12:57:28 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 12:59:00 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 14:15:57 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 14:16:57 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 14:17:58 - Error: Error: Could not load template product/product!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\product.php
+Line: 471
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Product\Product
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 14:27:47 - Error: Error: Could not load template product/thumb!
+File: D:\wamp64\www\opencart\cart_status\system\library\template\twig.php
+Line: 121
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\library\template.php
+Line: 58
+Class: Opencart\System\Library\Template\Twig
+Function: render
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 187
+Class: Opencart\System\Library\Template
+Function: render
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php
+Line: 41
+Class: Opencart\System\Engine\Loader
+Function: view
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Product\Thumb
+Function: index
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\extension\opencart\catalog\controller\module\featured.php
+Line: 78
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Extension\Opencart\Module\Featured
+Function: index
+
+Backtrace: 6
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\content_top.php
+Line: 101
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 7
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Common\ContentTop
+Function: index
+
+Backtrace: 8
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\home.php
+Line: 28
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 9
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Common\Home
+Function: index
+
+Backtrace: 10
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 11
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-22 15:14:27 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:14:56 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:15:05 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:15:48 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:15:57 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:16:02 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:18:05 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:18:12 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:18:34 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:20:29 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:21:12 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:22:22 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:23:23 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:28:46 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:30:59 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:33:43 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:33:51 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:34:16 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:38:03 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:40:16 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-22 15:42:52 - PHP Warning:  foreach() argument must be of type array|object, string given in D:\wamp64\www\opencart\cart_status\extension\Stock_with_status_Add_to_Cart_button\admin\controller\module\Stock_with_status_Add_to_Cart_button.php on line 40
+2025-09-23 08:12:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:04 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:04 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:04 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:12:04 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:16:03 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 50
+2025-09-23 08:36:05 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:36:05 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 53
+2025-09-23 08:40:54 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 51
+2025-09-23 08:40:54 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 51
+2025-09-23 08:40:54 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 51
+2025-09-23 08:40:54 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 51
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 56
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 56
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 56
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:32 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:32 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 56
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:41:56 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:41:56 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 41
+2025-09-23 08:43:38 - PHP Warning:  Undefined variable $product_info in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:43:38 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 42
+2025-09-23 08:44:30 - PHP Warning:  Undefined array key "file" in D:\wamp64\www\opencart\cart_status\catalog\controller\startup\error.php on line 78
+2025-09-23 08:44:30 - PHP Warning:  Undefined array key "line" in D:\wamp64\www\opencart\cart_status\catalog\controller\startup\error.php on line 79
+2025-09-23 08:44:30 - Error: syntax error, unexpected identifier "f"
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php
+Line: 40
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\engine\autoloader.php
+Line: 26
+Class: Opencart\System\Engine\Autoloader
+Function: load
+
+Backtrace: 1
+File: 
+Line: 
+Class: Opencart\System\Engine\Autoloader
+Function: Opencart\System\Engine\{closure}
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\system\engine\factory.php
+Line: 44
+Function: class_exists
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 94
+Class: Opencart\System\Engine\Factory
+Function: controller
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\extension\opencart\catalog\controller\module\featured.php
+Line: 78
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Extension\Opencart\Module\Featured
+Function: index
+
+Backtrace: 6
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\content_top.php
+Line: 101
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 7
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Common\ContentTop
+Function: index
+
+Backtrace: 8
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\home.php
+Line: 28
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 9
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Common\Home
+Function: index
+
+Backtrace: 10
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 11
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "quantity" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 39
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 52
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "quantity" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 39
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 52
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "quantity" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 39
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 52
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "quantity" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 39
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-23 08:44:41 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 52
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:32 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:32 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:33 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:51:33 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:33 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:51:33 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:51:33 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:57 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:57 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product_data in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 40
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 43
+2025-09-24 08:52:58 - PHP Warning:  Undefined variable $product in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:52:58 - PHP Warning:  Trying to access array offset on null in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 44
+2025-09-24 08:54:06 - Error: Too few arguments to function Opencart\Catalog\Controller\Product\Thumb::index(), 1 passed in D:\wamp64\www\opencart\cart_status\system\engine\loader.php on line 112 and exactly 2 expected
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php
+Line: 30
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Product\Thumb
+Function: index
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\extension\opencart\catalog\controller\module\featured.php
+Line: 78
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Extension\Opencart\Module\Featured
+Function: index
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\content_top.php
+Line: 101
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Common\ContentTop
+Function: index
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\home.php
+Line: 28
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 6
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Common\Home
+Function: index
+
+Backtrace: 7
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 8
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-24 08:54:25 - Error: Too few arguments to function Opencart\Catalog\Controller\Product\Thumb::index(), 1 passed in D:\wamp64\www\opencart\cart_status\system\engine\loader.php on line 112 and exactly 2 expected
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php
+Line: 30
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Product\Thumb
+Function: index
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\extension\opencart\catalog\controller\module\featured.php
+Line: 78
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Extension\Opencart\Module\Featured
+Function: index
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\content_top.php
+Line: 101
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Common\ContentTop
+Function: index
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\home.php
+Line: 28
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 6
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Common\Home
+Function: index
+
+Backtrace: 7
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 8
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-24 08:55:55 - Error: Too few arguments to function Opencart\Catalog\Controller\Product\Thumb::index(), 1 passed in D:\wamp64\www\opencart\cart_status\system\engine\loader.php on line 112 and exactly 2 expected
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php
+Line: 30
+
+Backtrace: 0
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Product\Thumb
+Function: index
+
+Backtrace: 1
+File: D:\wamp64\www\opencart\cart_status\extension\opencart\catalog\controller\module\featured.php
+Line: 78
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 2
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Extension\Opencart\Module\Featured
+Function: index
+
+Backtrace: 3
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\content_top.php
+Line: 101
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 4
+File: D:\wamp64\www\opencart\cart_status\system\engine\loader.php
+Line: 112
+Class: Opencart\Catalog\Controller\Common\ContentTop
+Function: index
+
+Backtrace: 5
+File: D:\wamp64\www\opencart\cart_status\catalog\controller\common\home.php
+Line: 28
+Class: Opencart\System\Engine\Loader
+Function: controller
+
+Backtrace: 6
+File: D:\wamp64\www\opencart\cart_status\system\engine\action.php
+Line: 96
+Class: Opencart\Catalog\Controller\Common\Home
+Function: index
+
+Backtrace: 7
+File: D:\wamp64\www\opencart\cart_status\system\framework.php
+Line: 259
+Class: Opencart\System\Engine\Action
+Function: execute
+
+Backtrace: 8
+File: D:\wamp64\www\opencart\cart_status\index.php
+Line: 20
+Function: require_once
+2025-09-24 09:14:30 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 59
+2025-09-24 09:19:48 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 59
+2025-09-24 09:22:57 - PHP Warning:  Undefined array key "stock_status_id" in D:\wamp64\www\opencart\cart_status\catalog\controller\product\thumb.php on line 59

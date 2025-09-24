@@ -96,6 +96,6 @@ class __TwigTemplate_8ac492ea143c85bc88ccc028f0ac3937 extends Template
   {% endfor %}
 </aside>
 {% endif %}
-", "catalog/view/template/common/column_left.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\column_left.twig");
+", "catalog/view/template/common/column_left.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\column_left.twig");
     }
 }

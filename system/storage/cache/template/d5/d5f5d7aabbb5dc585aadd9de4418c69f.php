@@ -84,6 +84,6 @@ class __TwigTemplate_e69ad34b7890d9c277e468bc41a88713 extends Template
 \t<input type=\"text\" name=\"search\" value=\"{{ search }}\" placeholder=\"{{ text_search }}\" class=\"form-control form-control-lg\"/>
 \t<button type=\"submit\" class=\"btn btn-light btn-lg\"><i class=\"fa-solid fa-magnifying-glass\"></i></button>
 </form>
-", "catalog/view/template/common/search.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\search.twig");
+", "catalog/view/template/common/search.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\search.twig");
     }
 }

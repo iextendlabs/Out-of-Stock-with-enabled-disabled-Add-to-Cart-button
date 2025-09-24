@@ -1,0 +1,96 @@
+{{ header }}{{ column_left }}
+<div id="content">
+	<div class="page-header">
+		<div class="container-fluid">
+			<div class="float-end">
+				<button type="submit" form="form-module" data-bs-toggle="tooltip" title="{{ button_save }}" class="btn btn-primary">
+					<i class="fa fa-save"></i>
+				</button>
+				<a href="{{ cancel }}" data-bs-toggle="tooltip" title="{{ button_cancel }}" class="btn btn-light">
+					<i class="fa fa-reply"></i>
+				</a>
+			</div>
+			<h1>{{ heading_title }}</h1>
+			<ol class="breadcrumb">
+				{% for breadcrumb in breadcrumbs %}
+					<li class="breadcrumb-item">
+						<a href="{{ breadcrumb.href }}">{{ breadcrumb.text }}</a>
+					</li>
+				{% endfor %}
+			</ol>
+		</div>
+	</div>
+	<div class="container-fluid">
+		{% if success %}
+			<div id="alert" class="d-flex justify-content-center mt-3">
+				<div class="alert alert-success alert-dismissible fade show" style="max-width: 500px; opacity: 0.9;" role="alert">
+					<i class="fa-solid fa-circle-check me-2"></i>
+					{{ success }}
+					<button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+				</div>
+			</div>
+		{% endif %}
+
+		<div class="card">
+			<div class="card-header">
+				<i class="fa-solid fa-pencil me-1"></i>
+				{{ text_edit }}
+			</div>
+			<div class="card-body">
+				<form action="{{ action }}" method="post" enctype="multipart/form-data" id="form-module" class="form-horizontal">
+					<div class="row mb-3">
+						<label class="col-sm-2 col-form-label">{{ entry_status }}</label>
+						<div class="col-sm-10">
+							<div class="form-check form-switch form-switch-lg">
+								<input type="hidden" name="module_hide_cart_button_status" value="0">
+								<input type="checkbox" name="module_hide_cart_button_status" value="1" id="input-status" class="form-check-input" {% if module_hide_cart_button_status %} checked {% endif %}>
+							</div>
+						</div>
+					</div>
+					<!-- Check By -->
+					<div class="row mb-3">
+						<label class="col-sm-2 col-form-label">{{ entry_check_type }}</label>
+						<div class="col-sm-10">
+							<select id="check-type" name="module_hide_cart_button_type" class="form-control">
+								<option value="quantity" {% if module_hide_cart_button_type == 'quantity' %}selected{% endif %}>Quantity</option>
+								<option value="status" {% if module_hide_cart_button_type == 'status' %}selected{% endif %}>Stock Status</option>
+							</select>
+						</div>
+					</div>
+					<!-- Stock Status Multi Select -->
+					<div id="stock-status-section" class="row mb-3" {% if module_hide_cart_button_type != 'status' %}style="display:none"{% endif %}>
+						<label class="col-sm-2 col-form-label">{{ entry_stock_status }}</label>
+						<div class="col-sm-10">
+							<input type="text" class="form-control mb-2" id="stock-status-search" placeholder="Search stock status...">
+							<div id="stock-status-checkbox-list" style="max-height: 100px; overflow-y: auto; border: 1px solid #eee; padding: 8px; border-radius: 4px;">
+								{% for stock in stock_statuses %}
+									<div class="form-check mb-1 stock-status-item">
+										<input class="form-check-input" type="checkbox" name="module_hide_cart_button_stock_status[]" id="stock-status-{{ stock.stock_status_id }}" value="{{ stock.stock_status_id }}"
+											{% if stock.stock_status_id in module_hide_cart_button_stock_status %}checked{% endif %}>
+										<label class="form-check-label" for="stock-status-{{ stock.stock_status_id }}">{{ stock.name }}</label>
+									</div>
+								{% endfor %}
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+		</div>
+
+	</div>
+</div>
+<script>
+    $('#check-type').on('change', function() {
+        $('#stock-status-section').toggle(this.value === 'status');
+    });
+</script>
+<script>
+    $('#stock-status-search').on('keyup', function() {
+        var search = $(this).val().toLowerCase();
+        $('#stock-status-checkbox-list .stock-status-item').each(function() {
+            var label = $(this).find('label').text().toLowerCase();
+            $(this).toggle(label.indexOf(search) !== -1);
+        });
+    });
+</script>
+{{ footer }}

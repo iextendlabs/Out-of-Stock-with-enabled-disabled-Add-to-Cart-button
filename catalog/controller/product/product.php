@@ -300,6 +300,24 @@ class Product extends \Opencart\System\Engine\Controller {
 			} else {
 				$data['stock'] = $product_info['quantity'];
 			}
+			$data['cart_button'] = $this->config->get('module_hide_cart_button_status');
+
+			$data['cart_button'] = true;
+
+			if ($this->config->get('module_hide_cart_button_status')) {
+				$check_type = $this->config->get('module_hide_cart_button_type');
+
+				if ($check_type == 'quantity') {
+					if (isset($product_info['quantity']) && $product_info['quantity'] <= 0) {
+						$data['cart_button'] = false							;
+					}
+				} elseif ($check_type == 'status') {
+					$selected_statuses = $this->config->get('module_hide_cart_button_stock_status');
+					if (is_array($selected_statuses) && in_array($product_info['stock_status_id'], $selected_statuses)) {
+						$data['cart_button'] = false;
+					}
+				}
+			}
 
 			$data['rating'] = (int)$product_info['rating'];
 			$data['review_status'] = (int)$this->config->get('config_review_status');

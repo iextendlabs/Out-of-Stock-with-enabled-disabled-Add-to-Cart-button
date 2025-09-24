@@ -221,6 +221,8 @@ class Search extends \Opencart\System\Engine\Controller {
 					'price'       => $price,
 					'special'     => $special,
 					'tax'         => $tax,
+					'quantity'        => $product['quantity'],
+    				'stock_status_id' => $product['stock_status_id'],
 					'minimum'     => $result['minimum'] > 0 ? $result['minimum'] : 1,
 					'href'        => $this->url->link('product/product', 'language=' . $this->config->get('config_language') . '&product_id=' . $result['product_id'] . $url)
 				] + $result;

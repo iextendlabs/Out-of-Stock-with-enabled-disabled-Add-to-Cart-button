@@ -64,6 +64,8 @@ class Featured extends \Opencart\System\Engine\Controller {
 
 				$product_data = [
 					'product_id'  => $product['product_id'],
+					'quantity'        => $product['quantity'],
+    				'stock_status_id' => $product['stock_status_id'],
 					'thumb'       => $image,
 					'name'        => $product['name'],
 					'description' => oc_substr(trim(strip_tags(html_entity_decode($product['description'], ENT_QUOTES, 'UTF-8'))), 0, $this->config->get('config_product_description_length')) . '..',

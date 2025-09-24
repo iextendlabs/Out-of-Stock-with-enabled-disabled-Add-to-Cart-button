@@ -38,6 +38,27 @@ class Thumb extends \Opencart\System\Engine\Controller {
 
 		$data['review_status'] = (int)$this->config->get('config_review_status');
 
+	$data['cart_button'] = true;
+
+        $hide_cart_status       = $this->config->get('module_hide_cart_button_status');
+        $hide_cart_type         = $this->config->get('module_hide_cart_button_type');
+        $hide_cart_stock_status = $this->config->get('module_hide_cart_button_stock_status');
+        if ($hide_cart_status) {
+            if ($hide_cart_type == 'quantity') {
+                $quantity = isset($data['quantity']) ? (int)$data['quantity'] : 0;
+                if ($quantity <= 0) {
+                    $data['cart_button'] = false;
+                }
+            }
+            if ($hide_cart_type == 'status') {
+                $stock_status_id = isset($data['stock_status_id']) ? (int)$data['stock_status_id'] : 0;
+                if (!empty($hide_cart_stock_status) && in_array($stock_status_id, (array)$hide_cart_stock_status)) {
+                    $data['cart_button'] = false;
+                }
+            }
+
+
+        }
 		return $this->load->view('product/thumb', $data);
 	}
 }

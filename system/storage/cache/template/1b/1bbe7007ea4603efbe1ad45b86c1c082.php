@@ -452,6 +452,6 @@ class __TwigTemplate_eb6b1a0e01a1becd6ec77e6b1d78f091 extends Template
   </header>
   <main>
     {{ menu }}
-", "catalog/view/template/common/header.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\header.twig");
+", "catalog/view/template/common/header.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\header.twig");
     }
 }

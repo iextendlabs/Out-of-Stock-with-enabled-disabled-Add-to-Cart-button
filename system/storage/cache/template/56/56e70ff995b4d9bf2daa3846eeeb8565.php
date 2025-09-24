@@ -81,6 +81,6 @@ class __TwigTemplate_98dacae6ec0755a67edeef3f14b32a82 extends Template
     {
         return new Source("{% for module in modules %}
 {{ module }}
-{% endfor %}", "catalog/view/template/common/content_top.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\content_top.twig");
+{% endfor %}", "catalog/view/template/common/content_top.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\content_top.twig");
     }
 }

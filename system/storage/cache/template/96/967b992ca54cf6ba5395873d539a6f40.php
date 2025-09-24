@@ -129,6 +129,6 @@ class __TwigTemplate_bef4a86e741dd8abbf3f19b58f404f64 extends Template
     <input type=\"hidden\" name=\"code\" value=\"\"/>
     <input type=\"hidden\" name=\"redirect\" value=\"{{ redirect }}\"/>
   </form>
-{% endif %}", "catalog/view/template/common/language.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\language.twig");
+{% endif %}", "catalog/view/template/common/language.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\language.twig");
     }
 }

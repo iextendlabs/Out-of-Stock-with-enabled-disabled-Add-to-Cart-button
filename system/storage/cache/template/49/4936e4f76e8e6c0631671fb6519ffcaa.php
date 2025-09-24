@@ -150,6 +150,6 @@ class __TwigTemplate_426276980c5c30d4625de40fd490b5d3 extends Template
     <input type=\"hidden\" name=\"redirect\" value=\"{{ redirect }}\"/>
   </form>
 {% endif %}
-", "catalog/view/template/common/currency.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\currency.twig");
+", "catalog/view/template/common/currency.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\currency.twig");
     }
 }

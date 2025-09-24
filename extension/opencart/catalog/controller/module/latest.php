@@ -56,6 +56,8 @@ class Latest extends \Opencart\System\Engine\Controller {
 
 				$product_data = [
 					'product_id'  => $result['product_id'],
+					'quantity'        => $result['quantity'],
+					'stock_status_id' => $result['stock_status_id'],
 					'thumb'       => $image,
 					'name'        => $result['name'],
 					'description' => oc_substr(trim(strip_tags(html_entity_decode($result['description'], ENT_QUOTES, 'UTF-8'))), 0, $this->config->get('config_product_description_length')) . '..',

@@ -94,6 +94,6 @@ class __TwigTemplate_f5d9aa5e6f3f50518e3924bd8e7116f9 extends Template
     <div id=\"content\" class=\"col\">{{ content_top }}{{ content_bottom }}</div>
     {{ column_right }}</div>
 </div>
-{{ footer }}", "catalog/view/template/common/home.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\home.twig");
+{{ footer }}", "catalog/view/template/common/home.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\home.twig");
     }
 }

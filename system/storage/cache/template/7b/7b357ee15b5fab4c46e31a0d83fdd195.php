@@ -316,6 +316,6 @@ Please donate via PayPal to donate@opencart.com
   <script src=\"{{ script.href }}\" type=\"text/javascript\"></script>
 {% endfor %}
 </body></html>
-", "catalog/view/template/common/footer.twig", "F:\\wamp64\\www\\opencart\\Stock-with-enabled-disabled-Add-to-Cart-button\\catalog\\view\\template\\common\\footer.twig");
+", "catalog/view/template/common/footer.twig", "D:\\wamp64\\www\\opencart\\cart_status\\catalog\\view\\template\\common\\footer.twig");
     }
 }
